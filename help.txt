@@ -1,0 +1,11 @@
+Controls:
+The objective of the game is to score as much as possible.
+Jumping on the flying balls and destroying them gives one point
+And hitting the porcupines removes one point
+
+Left --> D
+Right --> A
+Up --> Space Bar
+Q -> Quit
+
+
